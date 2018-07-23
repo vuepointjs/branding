@@ -1,2 +1,3 @@
-# branding
-Just some VuePointJS branding assets... icons, etc.
+# VuePoint.js Branding
+
+Just some VuePoint.js branding assets... icons, etc.
